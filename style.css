@@ -1,0 +1,19 @@
+body
+{
+    background-color: rgb(255, 0, 55);
+}
+
+button:hover
+{
+background-image: linear-gradient(to top right, red, blue, green) ;
+box-shadow: 5px 5px 5px yellowgreen;
+}
+
+.heading
+{
+    width: 80%;
+}
+.heading:hover
+{
+    background-image: linear-gradient(to top left, purple, gold, teal);
+}
